@@ -1,0 +1,6 @@
+[book]
+authors = ["elkeis"]
+language = "by"
+multilingual = false
+src = "src"
+title = "Раст на трасянке"
